@@ -25,7 +25,6 @@ global.anti92 = process.env.ANTI_92 === 'true';
 global.autoswview = process.env.AUTO_SW_VIEW !== 'false'; // default true
 global.welcome = process.env.WELCOME !== 'false'; // default false
 global.autoreact = process.env.AUTO_REACT === 'true';
-global.alwaysonline = process.env.ALWAYS_ONLINE === 'true';
 global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
 // Thumbnail profile picture
